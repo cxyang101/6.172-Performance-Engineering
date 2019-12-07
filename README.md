@@ -1,5 +1,5 @@
-# 6172-project1
-6.172 Project1 Fall2019
+# 6172 Project 1: Fast Matrix Rotation
+This program rotates images by 90 degrees using an efficient O(n^2) algorithm.
 
 ## Get Started
 ```
